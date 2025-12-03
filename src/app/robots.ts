@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
             userAgent: "*",
             allow: "/",
         },
-        sitemap: "https://akashyadav.design/sitemap.xml", // Placeholder domain
+        sitemap: "https://akashyadavdesigner.vercel.app/sitemap.xml", // Placeholder domain
     };
 }
