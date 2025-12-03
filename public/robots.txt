@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://akashyadavdesigner.vercel.app
+
+# Sitemaps
+Sitemap: https://akashyadavdesigner.vercel.app/sitemap.xml
