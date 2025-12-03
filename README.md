@@ -1,36 +1,135 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Akash Yadav — Portfolio
 
-## Getting Started
+A modern, minimal, and responsive portfolio website built using **Next.js**, **Tailwind CSS**, and smooth motion interactions.  
+Designed to showcase my work in branding, UI/UX, and digital design with an elegant and clean user experience.
 
-First, run the development server:
+---
 
-```bash
+## 🧠 Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| Framework | Next.js (App Router) |
+| Styling | Tailwind CSS |
+| UI Motion | Framer Motion / GSAP (optional) |
+| Deployment | Vercel |
+| SEO / Sitemap | next-sitemap |
+
+---
+
+## ✨ Features
+
+- 🎨 Minimal and clean UI built for modern design portfolios  
+- ⚡ Fast performance and responsive layout  
+- 🧭 Smooth scroll interactions
+- 🖼 Optimized images using `next/image`
+- 🔐 Simple anti-copy measures (optional)
+- 🌐 Custom domain + SEO optimized metadata
+- 📩 Functional contact form
+
+---
+
+## 📂 Project Structure
+
+/app
+layout.js
+page.js
+/public
+favicon.ico
+icon-192.png
+icon-512.png
+apple-touch-icon.png
+next-sitemap.config.js
+package.json
+tailwind.config.js
+README.md
+
+
+---
+
+## 🏗 Installation
+
+Clone the repository:
+
+```sh
+git clone https://github.com/YOUR-USERNAME/PORTFOLIO-REPO.git
+cd PORTFOLIO-REPO
+
+//Install dependencies:
+npm install
+
+//Run development server:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+The site will run at:
+http://localhost:3000
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌍 Production Deployment
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is deployed using Vercel.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+To build locally:
 
-## Learn More
+```sh
+npm run build
+npm run start
+```
+🔍 SEO Setup
 
-To learn more about Next.js, take a look at the following resources:
+Sitemap and robots are generated automatically using:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+next-sitemap
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Rebuilding generates:
 
-## Deploy on Vercel
+    sitemap.xml
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    robots.txt
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Submit the sitemap URL in Google Search Console:
+
+https://your-domain.com/sitemap.xml
+
+🎯 Roadmap / Future Updates
+
+    Add case studies with more detailed breakdowns
+
+    Add blog section for design notes
+
+    Optionally add theme switcher or alternate animations
+
+🙎 Devloper
+
+Saurabh Rana
+Software Engineer & Researcher
+
+[![Visit Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://saurabhrana0w0.com)
+
+
+[Email](mailto::hello@saurabhrana0w0.com)
+[LinkedIn](https://linkedin.com/in/saurabhrana0w0)
+[Instagram](https://instagram.com/saurabhrana0w0)
+
+
+
+
+
+🧑‍🎨 Author
+
+Akash Yadav
+Graphic Designer & Visual Creator
+
+[View Live Portfolio](https://akashyadavdesigner.vercel.app)
+
+
+
+
+📜 License
+
+This project is for personal portfolio use and is not intended for commercial reuse without permission.
+
+© 2025 Saurabh Rana. All rights reserved.
+
+
