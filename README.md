@@ -52,8 +52,8 @@ README.md
 Clone the repository:
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/PORTFOLIO-REPO.git
-cd PORTFOLIO-REPO
+git clone https://github.com/saurabhrana0w0/AkashPortfolio.git
+cd AkashPortfolio
 
 //Install dependencies:
 npm install
