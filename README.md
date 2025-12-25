@@ -130,6 +130,6 @@ Graphic Designer & Visual Creator
 
 This project is for personal portfolio use and is not intended for commercial reuse without permission.
 
-© 2025 Saurabh Rana. All rights reserved.
+© 2025 akash yadav . All rights reserved.
 
 
